@@ -61,7 +61,7 @@ body {
 
 /* Thin out the marketing headings */
 .jumbotron h1 {
-  font-family: 'Georgia', serif;
+  font-family: 'Open', sans-serif;
   font-size: 55px;
   font-weight: bold;
   color: #2B3856;

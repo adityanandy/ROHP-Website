@@ -61,7 +61,7 @@ body {
 
 /* Thin out the marketing headings */
 .jumbotron h1 {
-  font-family: 'Georgia', serif;
+  font-family: 'Open', sans-serif;
   text-shadow: black;
   font-size: 55px;
   font-weight: bold;
@@ -69,7 +69,7 @@ body {
 }
 
 .jumbotron h2 {
-  font-family: 'Georgia', serif;
+  font-family: 'Open', sans-serif;
   text-shadow: black;
   font-size: 24px;
   font-weight: bold;
